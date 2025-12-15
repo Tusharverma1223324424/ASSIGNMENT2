@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xHS50WyWB3A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moyan\\Downloads\\CSharp-main\\CSharp-main\\ConcurrentCollection_Implement_ConcurrentDictionary\\Before\\SellShirts\\SellShirts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moyan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\moyan\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\moyan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\moyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.15\\microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
